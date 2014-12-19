@@ -1,5 +1,7 @@
 Max Tabs
 ========
+Cloned from Cheeaun's https://github.com/cheeaun/max-tabs
+https://addons.mozilla.org/en-US/firefox/addon/max-tabs/
 
 Max Tabs is a simple Firefox extension that does these:
 

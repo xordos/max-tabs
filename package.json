@@ -4,7 +4,7 @@
     "author": "Lim Chee Aun / xordos",
     "version": "0.2a",
     "fullName": "Auto Close Tabs",
-    "id": "maxtabs@cheeaun",
+    "id": "autoclosetabs@xordos",
     "description": "Set maximum number of opened tabs in a window. (cloned from Lim Chee Aun's max-tabs)",
     "preferences": [
         {
