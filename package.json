@@ -1,11 +1,11 @@
 {
-    "name": "max-tabs",
+    "name": "autoclose-tabs",
     "license": "MPL 2.0",
-    "author": "Lim Chee Aun",
-    "version": "0.2",
-    "fullName": "Max Tabs",
+    "author": "Lim Chee Aun / xordos",
+    "version": "0.2a",
+    "fullName": "Auto Close Tabs",
     "id": "maxtabs@cheeaun",
-    "description": "Set maximum number of opened tabs in a window.",
+    "description": "Set maximum number of opened tabs in a window. (cloned from Lim Chee Aun's max-tabs)",
     "preferences": [
         {
 	        "name": "maxTabs",
